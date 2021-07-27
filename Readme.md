@@ -1,5 +1,10 @@
-# Projeto de uma Fonte de Tensão ajustável entre 3V a 12V com capacidade de 100mA - SSC0180 Eletrônica para Computação - USP São Carlos
+# Projeto de uma Fonte - SSC0180 Eletrônica para Computação - USP São Carlos
 ## Objetivo
+Projetar uma fonte que receba uma tensão RMS de 127V de corrente alternada com 60Hz e tenha como saída uma tensão ajustável entre 3V a 12V com capacidade de 100mA.
+### Transformador
+### Retificação
+### Filtragem
+### Regulação
 
 ## Componentes e Preços
 |Quant |Componente   |Especificações| Preço     |
