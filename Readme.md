@@ -1,6 +1,6 @@
 # Projeto de uma Fonte - SSC0180 Eletrônica para Computação - USP São Carlos
 ## Objetivo
-Projetar uma fonte que receba uma tensão RMS de 127V de corrente alternada com 60Hz e tenha como saída uma tensão ajustável entre 3V a 12V com capacidade de 100mA.
+Projetar uma fonte que receba uma tensão RMS de 127V de corrente alternada com 60Hz e tenha como saída uma corrente continua constante de tensão ajustável entre 3V a 12V com capacidade de 100mA.
 ### Transformador
 Adequa o nível de tensão proveniente da rede para o nível de tensão desejada.
 ![image](https://user-images.githubusercontent.com/85267964/127164862-07adb976-c8f4-4557-b152-b2d6b548307e.png)
@@ -12,7 +12,7 @@ Transforma a corrente que antes era alternada em uma corrente continua pulsante 
 Atenua os "vales" que podem ser vistos no gráfico, para isso usamos um capacitor. O Ripple é o novo valor da oscilação da tensão e é medido em porcentagem da oscilação original.
 ![image](https://user-images.githubusercontent.com/85267964/127168437-bdf94fe7-8d51-4534-be1c-ea9c8bd4ba4e.png)
 ### Regulação
-Essa é a ultima etapa e consiste em tornar a corrente continua constante
+Essa é a ultima etapa e consiste em tornar a corrente continua em constante, para isso vamos "cortar" a parte abaixo do pico mínimo do ripple usando um diodo zener, dessa forma não teremos mais oscilações. Nesta etapa também vamos tornar a tensão ajustável usando um potenciômetro.
 ## Componentes e Preços
 |Quant |Componente   |Especificações| Preço     |
 |  :-: |     :-:     |     :-:      |    :-:    |
