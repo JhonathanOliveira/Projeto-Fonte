@@ -1,19 +1,24 @@
 # Projeto de uma Fonte - SSC0180 Eletrônica para Computação - USP São Carlos
+## Trabalho desenvolvido pelos alunos:
+* Jhonathan Oliveira Alves
+* João Gabriel Sasseron Roberto Amorim
+* Laura Ferré Scotelari
+* Samuel Figueiredo Veronez
 ## Objetivo
 Projetar uma fonte que receba uma tensão RMS de 127V de corrente alternada com 60Hz e tenha como saída uma corrente continua constante de tensão ajustável entre 3V a 12V com capacidade de 100mA.
 ### Transformador
 Adequa o nível de tensão proveniente da rede para o nível de tensão desejada.
 ![image](https://user-images.githubusercontent.com/85267964/127164862-07adb976-c8f4-4557-b152-b2d6b548307e.png)
 ### Retificação
-Transforma a corrente que antes era alternada em uma corrente continua pulsante através da "transformação" dos semiciclos negativos em positivos usando uma ponte de Diodos.
+Transforma a corrente que antes era alternada em uma corrente continua pulsante através da "transformação" dos semiciclos negativos em positivos usando uma Ponte de Diodos.
 
 ![image](https://user-images.githubusercontent.com/85267964/127166412-4c9c36d0-ad5e-412c-b154-9f382b30c371.png)
 ### Filtragem
-Atenua os "vales" que podem ser vistos no gráfico, para isso usamos um capacitor. O Ripple é o novo valor da oscilação da tensão e é medido em porcentagem da oscilação original.
+Atenua os "vales" que podem ser vistos no gráfico, para isso usamos um Capacitor. O Ripple é o novo valor da oscilação da tensão e é medido em porcentagem da oscilação original.
 
 ![image](https://user-images.githubusercontent.com/85267964/127168437-bdf94fe7-8d51-4534-be1c-ea9c8bd4ba4e.png)
 ### Regulação
-Essa é a ultima etapa e consiste em tornar a corrente continua em constante, para isso vamos "cortar" a parte abaixo do pico mínimo do ripple usando um diodo zener, dessa forma não teremos mais oscilações. Nesta etapa também vamos tornar a tensão ajustável usando um potenciômetro.
+Essa é a ultima etapa e consiste em tornar a corrente continua em constante, para isso vamos "cortar" a parte abaixo do pico mínimo do ripple usando um Diodo Zener, dessa forma não teremos mais oscilações. Nesta etapa também vamos tornar a tensão ajustável usando um Potenciômetro.
 
 ![image](https://user-images.githubusercontent.com/85267964/127177226-f81f4f52-25b7-4938-bf6a-94d0d7769c33.png)
 ## Componentes e Preços
