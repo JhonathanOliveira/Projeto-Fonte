@@ -23,12 +23,12 @@ Essa é a ultima etapa e consiste em tornar a corrente continua em constante, pa
 ![image](https://user-images.githubusercontent.com/85267964/127177226-f81f4f52-25b7-4938-bf6a-94d0d7769c33.png)
 
 ## O Circuito
-### * No Falstad
+### - No Falstad
 ![image](https://user-images.githubusercontent.com/85267964/127182639-f8d299b7-e739-4269-a3fc-3dc6f5273898.png)
 [Link para o circuito](https://tinyurl.com/yfn5k49m).
-### * Esquemático no EAGLE
+### - Esquemático no EAGLE
 ![image](https://user-images.githubusercontent.com/85267964/127183062-d09746b9-f40d-4d1e-a7c2-655587ddf44e.png)
-### * PCB no EAGLE
+### - PCB no EAGLE
 ![image](https://user-images.githubusercontent.com/85267964/127183140-67d9c05b-faaa-48c9-a182-c1b76cb22f9a.png)
 ## Função de cada componente usado no circuito
 ## Explicação dos valores dos componentes usados
