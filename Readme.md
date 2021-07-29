@@ -18,7 +18,7 @@ Atenua os "vales" que podem ser vistos no gráfico, para isso usamos um Capacito
 
 ![image](https://user-images.githubusercontent.com/85267964/127168437-bdf94fe7-8d51-4534-be1c-ea9c8bd4ba4e.png)
 ### 4. Regulação
-Essa é a ultima etapa e consiste em tornar a corrente continua em constante, para isso vamos "cortar" a parte abaixo do pico mínimo do ripple usando um Diodo Zener, dessa forma não teremos mais oscilações. Nesta etapa também vamos tornar a tensão ajustável usando um Potenciômetro.
+Essa é a ultima etapa e consiste em tornar a corrente continua em constante, para isso vamos "cortar" a parte abaixo do pico mínimo do ripple usando um Diodo Zener, dessa forma não teremos mais oscilações. Nesta etapa também vamos tornar a tensão ajustável usando um Potenciômetro e um Transistor.
 
 ![image](https://user-images.githubusercontent.com/85267964/127177226-f81f4f52-25b7-4938-bf6a-94d0d7769c33.png)
 
@@ -30,9 +30,7 @@ Essa é a ultima etapa e consiste em tornar a corrente continua em constante, pa
 ![image](https://user-images.githubusercontent.com/85267964/127183062-d09746b9-f40d-4d1e-a7c2-655587ddf44e.png)
 ### - PCB no EAGLE
 ![image](https://user-images.githubusercontent.com/85267964/127183140-67d9c05b-faaa-48c9-a182-c1b76cb22f9a.png)
-## Função de cada componente usado no circuito
-## Explicação dos valores dos componentes usados
-## Vídeo de explicativo do circuito
+## Vídeo explicativo dos componentes, valores e circuito
 ## Componentes usados e Preços
 |Quant |Componente   |Especificações| Preço     |
 |  :-: |     :-:     |     :-:      |    :-:    |
