@@ -38,8 +38,8 @@ Essa é a ultima etapa e consiste em tornar a corrente continua em constante, pa
 |4x    |[Diodo](https://www.baudaeletronica.com.br/diodo-1n4007.html)        |     1N4007   |  R$0,40|
 |1x|[Resistor](https://www.baudaeletronica.com.br/resistor-1k-5-1-4w.html?gclid=Cj0KCQjw9O6HBhCrARIsADx5qCRMlNaP_h1QmebZCefj1KAM79iml9dh2ZtkulPFpoBmj30TD4UAbPMaAuWsEALw_wcB)|1k|R$0,06|
 |1x|[Resistor](https://www.baudaeletronica.com.br/resistor-2k-5-1-4w.html?gclid=Cj0KCQjw9O6HBhCrARIsADx5qCTXI_57t8omr_wWqVsbYg5ANadbM-3vJB5mD54eyXh_OoTI7aAWtaMaAtXAEALw_wcB)|2k|R$0,06|
-|1x|[Capacitor](https://www.baudaeletronica.com.br/capacitor-eletrolitico-1000uf-16v.html)|740uF|R$0,51|
+|1x|[Capacitor](https://www.baudaeletronica.com.br/capacitor-eletrolitico-1000uf-25v.html?gclid=CjwKCAjwo4mIBhBsEiwAKgzXOPkUna2m2LorTGh_l0Gg98YCBQdBkTDlO88mYA_KzbuIrVka1NLfCRoCCNMQAvD_BwE)|740uF|R$0,88|
 |1x|[Potenciômetro](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html)|5k|R$2,21|
 |1x|[Transistor](https://www.baudaeletronica.com.br/transistor-npn-bc548.html)|NPN|R$0,19|
 |1x    |  [Diodo Zener](https://www.baudaeletronica.com.br/diodo-zener-1n4743-13v-1w.html)|  13V  |R$0,21     |
-| **Total**   | |             |**R$22,55**|
+| **Total**   | |             |**R$22,92**|
