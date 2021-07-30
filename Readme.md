@@ -31,7 +31,7 @@ Essa é a ultima etapa e consiste em tornar a corrente continua em constante, pa
 ### - PCB no EAGLE
 ![image](https://user-images.githubusercontent.com/85267964/127183140-67d9c05b-faaa-48c9-a182-c1b76cb22f9a.png)
 ## Vídeo explicativo dos componentes, valores e circuito
-(gravamos o vídeo pelo google meet, o vídeo ainda está sendo precessado pelo drive, assim que disponível colocaremos aqui)
+[Link para o vídeo](https://youtu.be/xUj1-Ha36Bw)
 ## Componentes usados e Preços
 |Quant |Componente   |Especificações| Preço     |
 |  :-: |     :-:     |     :-:      |    :-:    |
